@@ -28,9 +28,9 @@ I am a front-end web developer with a background in Graphic Design(B.A.) and Cyb
 
 ### 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TuUsuarioGitHub]&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zujuy&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TuUsuarioGitHub]&layout=compact&theme=radical" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zujuy&layout=compact&theme=radical" alt="Lenguajes más usados">
 </div>
 
 ---
