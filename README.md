@@ -13,7 +13,7 @@ I am a front-end web developer with a background in Graphic Design(B.A.) and Cyb
 
 ---
 
-### 🛠 Tecnologías y Herramientas
+### 🛠 Technologies
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
@@ -22,11 +22,12 @@ I am a front-end web developer with a background in Graphic Design(B.A.) and Cyb
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/-Drupal-0678BE?style=flat&logo=drupal&logoColor=white" alt="Drupal">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-Adobe%20Suite-FF0000?style=flat&logo=adobe&logoColor=white" alt="Adobe Suite">
 </div>
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zujuy&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
   <br>
@@ -36,7 +37,7 @@ I am a front-end web developer with a background in Graphic Design(B.A.) and Cyb
 ---
 
 
-### 📫 Contáctame
+### 📫 Contact me
 <p style="color: #E6E6FA;">
 Feel free to reach out! I'm open to collaborations, questions, or just chatting about tech, music or books! 📚
 </p>
