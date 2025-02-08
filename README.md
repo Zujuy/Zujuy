@@ -53,7 +53,7 @@ Feel free to reach out! I'm open to collaborations, questions, or just chatting 
 </div>
 
 ---
-🎵 [Escucha mi playlist favorita mientras revisas mi perfil](https://open.spotify.com/playlist/37i9dQZF1DWVtFO27AQ6dF?si=1d8dbfd3f6114c38)
+🎵 [Listen to my favorite playlist while you check out my profile](https://open.spotify.com/playlist/37i9dQZF1DWVtFO27AQ6dF?si=1d8dbfd3f6114c38)
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF animado" width="200">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF" width="200">
 </div>
